@@ -16,8 +16,9 @@
   ✅ You win this round!
 
   🏁 Score => You: 1 | Computer: 0 | Rounds Played: 1
+  
 
-##🧠 Concepts Used
+## 🧠 Concepts Used
 - Dictionaries and control flow
 - Random number generation
 - Function-based modular programming
@@ -25,5 +26,5 @@
 - CLI-friendly UX
 
 
-#✍️ Author
+## ✍️ Author
 Sujal G S 
