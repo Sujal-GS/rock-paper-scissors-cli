@@ -8,7 +8,7 @@
 - Live score tracking for multiple rounds
 - Clean, modular Python codebase
 - Easily extendable (e.g., Rock-Paper-Scissors-Lizard-Spock)
-- 
+
 ## 🧠 Concepts Used
 - Dictionaries and control flow
 - Random number generation
