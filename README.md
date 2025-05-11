@@ -26,4 +26,4 @@
 
 
 ## Human Behind the Code
-Sujal G S 
+**Sujal G S** --> [LinkedIn](https://www.linkedin.com/in/sujal-g-s/) • [Portfolio](https://sujal-gs.github.io/Portfolio/)
