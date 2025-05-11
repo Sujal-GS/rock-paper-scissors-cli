@@ -17,16 +17,13 @@
 
   🏁 Score => You: 1 | Computer: 0 | Rounds Played: 1
 
-🧠 Concepts Used
- - Dictionaries and control flow
+##🧠 Concepts Used
+- Dictionaries and control flow
+- Random number generation
+- Function-based modular programming
+- User input validation
+- CLI-friendly UX
 
-  - Random number generation
 
-  - Function-based modular programming
-
-  - User input validation
-
-  - CLI-friendly UX
-
-✍️ Author
-Sujal G S --> LinkedIn • Portfolio
+#✍️ Author
+Sujal G S 
