@@ -8,6 +8,13 @@
 - Live score tracking for multiple rounds
 - Clean, modular Python codebase
 - Easily extendable (e.g., Rock-Paper-Scissors-Lizard-Spock)
+- 
+## 🧠 Concepts Used
+- Dictionaries and control flow
+- Random number generation
+- Function-based modular programming
+- User input validation
+- CLI-friendly UX
 
 ## Expected Output
 
@@ -16,15 +23,7 @@
   ✅ You win this round!
 
   🏁 Score => You: 1 | Computer: 0 | Rounds Played: 1
-  
-
-## 🧠 Concepts Used
-- Dictionaries and control flow
-- Random number generation
-- Function-based modular programming
-- User input validation
-- CLI-friendly UX
 
 
-## ✍️ Author
+## Human Behind the Code
 Sujal G S 
